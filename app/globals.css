@@ -29,3 +29,15 @@ body {
 .font-rubik {
   font-family: var(--font-rubik), sans-serif;
 }
+
+@keyframes vertical-scroll {
+          0% {
+            transform: translateY(0);
+          }
+          100% {
+            transform: translateY(-50%);
+          }
+        }
+        .animate-vertical-scroll {
+          animation: vertical-scroll 60s linear infinite;
+        }

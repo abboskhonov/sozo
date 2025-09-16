@@ -17,10 +17,10 @@ const rubik = Rubik({
   subsets: ["latin"],
   variable: "--font-rubik",
 });
-  
+
 export const metadata: Metadata = {
-  title: "My Next.js App",
-  description: "Using Days One, Inter, and Rubik fonts",
+  title: "Sozo App",
+  description: "Watch your favorite anime",
 };
 
 export default function RootLayout({

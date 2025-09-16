@@ -59,7 +59,7 @@ export const WhyUs = () => {
             <Image 
               src={vectorline} 
               alt="connecting line" 
-              className="w-full h-auto opacity-30"
+              className="w-full h-auto opacity-30 "
             />
           </div>
 
@@ -73,6 +73,7 @@ export const WhyUs = () => {
                     alt={feature.alt}
                     width={140}
                     height={140}
+                    className='hover:scale-107 smooth-transition duration-100'
                   />
                 </div>
                 <h3 className="text-xl font-bold text-white mb-2 flex items-center justify-center">
