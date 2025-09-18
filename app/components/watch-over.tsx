@@ -10,8 +10,7 @@ import Cover7 from "@/public/anime-covers/cover7.jpg";
 import Cover8 from "@/public/anime-covers/cover8.webp";
 import Cover9 from "@/public/anime-covers/cover9.webp";
 import Cover10 from "@/public/anime-covers/cover10.jpg";
-import Cover11 from "@/public/anime-covers/cover11.jpg";
-import Cover12 from "@/public/anime-covers/cover12.webp";
+
 
 const covers = [
   Cover1,
