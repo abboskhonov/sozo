@@ -13,13 +13,7 @@
 }
 
 body {
-    background-image: radial-gradient(
-        circle,
-        #ff4f87 0%,
-        /* bright pink center */ #3d252d 25%,
-        /* darker pinkish gray */ #2a242e 60%,
-        /* deep gray */ #1b1e23 100% /* almost black edges */
-    );
+     background-image: radial-gradient(circle, #0d213f, #002456, #00256c, #1b2280, #3a1791);
 }
 
 /* Define font utilities using the CSS variables */

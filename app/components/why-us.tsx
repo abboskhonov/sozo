@@ -39,7 +39,7 @@ export const WhyUs = () => {
   return (
     <section className="relative  py-16 px-4 overflow-hidden">
       {/* Top blurred overlay */}
-      <div className="absolute top-0 left-0 w-full h-32 bg-gradient-to-b from-[#1B1E23]/90 to-transparent backdrop-blur-md z-10"></div>
+      
 
       <div className="max-w-6xl mx-auto relative z-20">
         {/* Header */}
